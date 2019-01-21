@@ -9,3 +9,5 @@ Data exploration using MatPlotLib and SciKit
 Pandas scatter_matrix
 
 sklearn.preprocessing.Imputer
+
+difference between sparse matrix and numpy array
