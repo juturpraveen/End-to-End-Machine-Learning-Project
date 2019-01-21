@@ -5,5 +5,7 @@ This is the chapter 2 of the book "Hands-On Machine Learning with Scikit-Learn a
 Areas that need work:
 
 Data exploration using MatPlotLib and SciKit
+
 Pandas scatter_matrix
+
 sklearn.preprocessing.Imputer
