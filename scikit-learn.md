@@ -7,3 +7,5 @@ All objects contain share common API consisting of 3 interfaces:
 2. Predictor: For making predictions
 
 3. Transformer: For converting data
+
+Data representation: Data sets are encoded as NumPy multidimensional arrays for dense data and as SciPy sparse matrices for spase data.
