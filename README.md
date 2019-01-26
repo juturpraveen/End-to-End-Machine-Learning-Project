@@ -11,3 +11,5 @@ Pandas scatter_matrix
 sklearn.preprocessing.Imputer
 
 difference between sparse matrix and numpy array
+
+Implementing your own scikit estimator: http://danielhnyk.cz/creating-your-own-estimator-scikit-learn/ 
