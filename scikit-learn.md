@@ -26,4 +26,5 @@ Predictor Interface: For making predictions
 
 Transformer Interface: For converting data
 
-- For the common neeed to modifyor filter data before feeding it to a learning algorithm.
+- For the common neeed to modifyor filter data before feeding it to a learning algorithm. Takes X_test data and yealds tranformed version of X_test
+- Preprocessing; feature selection; feature exraction and dimensionality reduction algorithms are all provided as transformers with in the library.
